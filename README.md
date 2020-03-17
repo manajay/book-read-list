@@ -5,8 +5,9 @@
 
 - 编译原理之美 03/43
 - 极客时间-设计模式 15篇/未完结
-- iOS 应用安全权威指南
+- iOS 应用安全权威指南 1/14
 
+- [labuladong的算法小抄](https://labuladong.gitbook.io/algo/) 略读一遍
 
 ## [2018年书单](/2018/README.md)
 
